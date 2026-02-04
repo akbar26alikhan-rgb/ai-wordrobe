@@ -1,0 +1,7 @@
+{
+  "name": "AuraStyle: AI Wardrobe & Stylist",
+  "description": "A sophisticated digital wardrobe organizer and AI stylist that uses computer vision to categorize your clothes and suggests personalized outfits based on weather, your calendar, and wear frequency.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
